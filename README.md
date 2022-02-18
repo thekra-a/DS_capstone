@@ -1,7 +1,7 @@
 #### Effect of Lockdown on levels of Air Pollutants in 2020
 
 
-**Data dictionary:**\
+**Data dictionary (Air Quality):**\
 **-DATE**: date the readings were recorded starting January 1 through December 31 each year\
 **-SITE ID**: ID number of the monitoring station\
 **-SITE NAME**: name of the monitoring site\
@@ -13,5 +13,14 @@
 **-SITE_LATITUDE**\
 **-SITE_LONGITUDE**
 
+
+**Data dictionary (LA COVID-19 cases/deaths):**\
+**-date_use**: date of recoding data starting March 1, 2020 through Feburary 9, 2022\
+**-total_cases**: number of total cases up untill this day in LA county\
+**-new_cases**: number of new cases recorded on that day\
+**-avg_cases**: average number of cases across LA up until that day\
+**-total_deaths**:  number of total deaths up until this day in LA county\
+**-new_deaths**: number of new deaths on that day\
+**-avg_deaths**: average number of deaths across LA up until that day\
 
 
