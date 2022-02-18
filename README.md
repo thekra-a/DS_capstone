@@ -23,4 +23,3 @@
 **-new_deaths**: number of new deaths on that day\
 **-avg_deaths**: average number of deaths across LA up until that day\
 
-
