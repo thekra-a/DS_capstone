@@ -9,9 +9,9 @@
 **-Daily Max 8-hour Concentration**: maximum 8-hour average concentration of pollutant out of 24 reading periods/day (e.g. 00:00–07:59, 01:00–08:59 etc). An 8-hour average is considered valid if at least 75% of the hourly averages (17/24 reading periods/day) for the 8-hour average are available.\
 **-DAILY_AQI_VALUE**: daily average air quality index\
 **-DAILY_OBS_COUNT**: number of observations per day (max 24 observations)\
-**-PERCENT_COMPLETE**: percentage of daily observations collected (a minimum of 75% is required
+**-PERCENT_COMPLETE**: percentage of daily observations collected (a minimum of 75% is required)\
 **-SITE_LATITUDE**\
-**-SITE_LONGITUDE**\
+**-SITE_LONGITUDE**
 
 
 
