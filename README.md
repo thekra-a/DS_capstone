@@ -3,7 +3,7 @@
 
 **Data dictionary:**\
 **-DATE**: date the readings were recorded starting January 1 through December 31 each year\
-**-SITE ID**: ID number of the monitor station\
+**-SITE ID**: ID number of the monitoring station\
 **-SITE NAME**: name of the monitoring site\
 **-POC (Parameter Occurrence Code)**: ID number of the monitoring device when there's more than one device measuring the same pollutant\
 **-Daily Max 8-hour Concentration**: maximum 8-hour average concentration of pollutant out of 24 reading periods/day (e.g. 00:00–07:59, 01:00–08:59 etc). An 8-hour average is considered valid if at least 75% of the hourly averages (17/24 reading periods/day) for the 8-hour average are available.\
