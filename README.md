@@ -1,7 +1,7 @@
-#### Effect of Lockdown on levels of Air Pollutants in 2020__
+#### Effect of Lockdown on levels of Air Pollutants in 2020\
 
 
-#####Data dictionary:__
+#####Data dictionary:\
 -DATE: date the readings were recorded starting January 1 through December 31 each year
 -SITE ID: ID number of the monitor station 
 -SITE NAME: name of the monitoring site
