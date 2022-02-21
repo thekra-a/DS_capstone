@@ -11,7 +11,6 @@
 **-Daily Max 1-hour concentration**: maximum 1-hour concentration of pollutant out of hourly reading/day. This metric is specific for nitrogen dioxide (NO2) and gground-level ozone (O3).\
 **-Daily Mean Concentration**: average daily concentration of pollutant. This metric is specific for particulate-matter 2.5 (PM2.5) and 10 (PM10)
 **-Units**: the units for the displayed pollutant concentration.\
-
 **-DAILY_AQI_VALUE**: daily average air quality index.\
 **-DAILY_OBS_COUNT**: number of observations per day (max 24 observations)\
 **-PERCENT_COMPLETE**: percentage of daily observations collected (a minimum of 75% is required)\
