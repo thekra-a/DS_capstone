@@ -3,7 +3,7 @@
 
 
 
-####**Data dictionary (Air Quality):**\
+**Data dictionary (Air Quality):**\
 **-DATE**: date the readings were recorded starting January 1 through December 31 each year\
 **-Source**: source of the data. The primary source of all the data included in this projec is the Air Quality Systems (AQS)
 **-SITE ID**: ID number of the monitoring station\
@@ -28,7 +28,7 @@
 **-SITE_LONGITUDE**
 
 
-####**Data dictionary (California state COVID-19 cases/deaths/tests):**\
+**Data dictionary (California state COVID-19 cases/deaths/tests):**\
 **-date**: date of recoding data starting Feburary 1, 2020 through Feburary 17, 2022\
 **-area**: area name.\
 **-area_type**: type of area (county)\
