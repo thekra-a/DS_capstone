@@ -27,6 +27,8 @@
 **-SITE_LATITUDE**\
 **-SITE_LONGITUDE**
 
+Data source: https://www.epa.gov/outdoor-air-quality-data/download-daily-data
+
 
 **Data dictionary (California state COVID-19 cases/deaths/tests):**\
 **-date**: date of recoding data starting Feburary 1, 2020 through Feburary 17, 2022\
