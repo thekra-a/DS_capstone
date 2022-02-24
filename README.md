@@ -44,3 +44,4 @@
 **-positive_tests**: reported COVID-19 positive resulsts on that day\
 **-commulative_positive_tests**: total number of COVID-19 positive tests up until that day\
 
+Data source: https://data.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state1
